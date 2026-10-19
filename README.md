@@ -1,5 +1,5 @@
 # 天依蓝 · 洛天依皮肤（dsh-skin-tianyi-azure）
-
+Deepseek写的
 DeepSeek Harness Web 界面的一套洛天依主题皮肤，纯展示型插件：不注册任何 Host 服务，只挂一个 Client 半。
 
 - **壁纸**：`shell.overlay` 里的一层全屏、可穿透点击的插画薄雾；左侧淡出，右侧显色，不压住正文。**亮暗各一张**，随主题实时换图。

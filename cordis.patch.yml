@@ -1,0 +1,5 @@
+# 天依蓝 skin bundle: one Client row that injects the theme, the wallpaper
+# wash and the two brand marks. Purely presentational, no Host service.
+- insert:
+    - id: ui-skin-tianyi-azure
+      name: dsh-skin-tianyi-azure

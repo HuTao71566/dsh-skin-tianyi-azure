@@ -1,0 +1,26 @@
+NOTICE — dsh-skin-tianyi-azure
+
+Code in this package is licensed under the MIT License.
+assets/icon.svg is an original drawing (an eighth note on a deep-sea tile) and
+is covered by that MIT license.
+
+1) Every raster asset in assets/ is a crop, mirror, downscale or blur of an
+   illustration supplied by the user of this desktop installation:
+
+     wallpaper-dark.webp         cloud-castle night version (starry sky)
+     wallpaper-light.webp        cloud-castle sky illustration
+     sidebar-portrait-dark.webp  night-rain paper umbrella portrait (both themes)
+     sidebar-ambience.webp       heavily blurred crop of the star-chart night art
+     sidebar-ambience-light.webp heavily blurred, brightened crop of the cloud-castle sky
+     avatar.webp                 chibi head crop
+
+   The character Luo Tianyi (洛天依) and its official illustrations belong to
+   their rights holders (Shanghai Huanon / Vsinger and the original
+   illustrators); fan illustrations remain with their authors. These files are
+   embedded only for the local, personal use of one desktop installation; they
+   are not to be redistributed, published, or used commercially. The originals
+   are NOT part of this package, and no third-party asset is bundled here.
+
+2) No Creative Commons material is included any more. The earlier
+   `sidebar-ambience.webp` (a CC BY-SA 4.0 derivative of a Wikimedia Commons
+   concert photo) has been replaced by the blur above and removed.

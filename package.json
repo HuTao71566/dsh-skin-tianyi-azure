@@ -1,9 +1,17 @@
 {
   "name": "dsh-skin-tianyi-azure",
   "version": "1.17.0",
-  "private": true,
   "description": "天依蓝 · 洛天依主题皮肤：暗色夜空协奏、亮色云端城堡两套插画随主题切换，含侧栏半身像、舞台光与 #66CCFF 强调色。",
+  "author": "HuTao71566",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuTao71566/dsh-skin-tianyi-azure.git"
+  },
+  "homepage": "https://github.com/HuTao71566/dsh-skin-tianyi-azure#readme",
+  "bugs": {
+    "url": "https://github.com/HuTao71566/dsh-skin-tianyi-azure/issues"
+  },
   "type": "module",
   "icon": "assets/icon.svg",
   "exports": {
